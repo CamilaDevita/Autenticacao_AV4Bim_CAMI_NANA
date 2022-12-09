@@ -38,7 +38,7 @@ public class ListaActivity extends AppCompatActivity {
     public void onBackPressed() {
 // Vazio pra desabilitar o back
     }
-    private class EscutadorSair implements View.OnClickListener {
+    /*private class EscutadorSair implements View.OnClickListener {
 
     }
     private class EscutadorInserir implements View.OnClickListener {
@@ -46,6 +46,6 @@ public class ListaActivity extends AppCompatActivity {
     }
     private class AlunosAdapter extends FirebaseListAdapter<Aluno> {
 
-    }
+    }*/
 
 }

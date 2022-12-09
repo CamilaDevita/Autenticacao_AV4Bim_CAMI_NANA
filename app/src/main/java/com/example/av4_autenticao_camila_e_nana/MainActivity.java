@@ -11,6 +11,9 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Camila Devita Basaglia - SC3010058
+    //Nana de Souza Ekman Simões - SC3010414
+
     // Atributos dos objetos da GUI:
     private EditText txtEmail;
     private EditText txtSenha;
@@ -32,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private class EscutadorLogin implements View.OnClickListener {
+    /*private class EscutadorLogin implements View.OnClickListener {
         @Override
         public void onClick(View view) {
 
@@ -43,6 +46,6 @@ public class MainActivity extends AppCompatActivity {
         public void onClick(View view) {
 
         }
-    }
+    }*/
 
 }
